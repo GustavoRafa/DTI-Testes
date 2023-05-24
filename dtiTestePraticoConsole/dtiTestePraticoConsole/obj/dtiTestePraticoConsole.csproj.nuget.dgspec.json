@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gugur\\Desktop\\DTI\\Feitos\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\dtiTestePraticoConsole.csproj": {}
+    "C:\\Users\\gugur\\Desktop\\DTI\\Trabalhos\\DTI-Testes\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\dtiTestePraticoConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gugur\\Desktop\\DTI\\Feitos\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\dtiTestePraticoConsole.csproj": {
+    "C:\\Users\\gugur\\Desktop\\DTI\\Trabalhos\\DTI-Testes\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\dtiTestePraticoConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gugur\\Desktop\\DTI\\Feitos\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\dtiTestePraticoConsole.csproj",
+        "projectUniqueName": "C:\\Users\\gugur\\Desktop\\DTI\\Trabalhos\\DTI-Testes\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\dtiTestePraticoConsole.csproj",
         "projectName": "dtiTestePraticoConsole",
-        "projectPath": "C:\\Users\\gugur\\Desktop\\DTI\\Feitos\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\dtiTestePraticoConsole.csproj",
+        "projectPath": "C:\\Users\\gugur\\Desktop\\DTI\\Trabalhos\\DTI-Testes\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\dtiTestePraticoConsole.csproj",
         "packagesPath": "C:\\Users\\gugur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gugur\\Desktop\\DTI\\Feitos\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\obj\\",
+        "outputPath": "C:\\Users\\gugur\\Desktop\\DTI\\Trabalhos\\DTI-Testes\\dtiTestePraticoConsole\\dtiTestePraticoConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

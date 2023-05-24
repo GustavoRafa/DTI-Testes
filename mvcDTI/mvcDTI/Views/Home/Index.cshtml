@@ -1,0 +1,68 @@
+﻿@model List<List<LembreteApp.Models.Lembrete>>
+
+<html>
+<head>
+    <style>
+        /* Coloquei o css do site no arquivo site.css*/
+    </style>
+</head>
+<body>
+
+<h3>Lista de Lembretes</h3>
+
+<div class="container">
+<form asp-controller="Home" asp-action="AddLembrete" method="post"> <!--  PUXANDO A FUNCAO DE ADICIONAR LEMBRETE -->
+    <div class="row">
+        <div>
+            <label for="name">Nome:</label>
+            <input type="text" name="nome" class="inputText"/>
+        </div>
+        <div>
+            <label for="date">Data:</label>
+            <input type="date" name="data" class="inputData"/>
+        </div>
+        <div>
+            <button type="submit" class="btnCriar">Criar</button> <!--  AO CLICAR NO BOTAO, ACIONA A FUNCAO ADICIONAR LEMBRETE -->
+        </div>
+    </div>
+</form>
+</div>
+
+@if (!Model.Any()) // CASO NÃO HAJA NENHUM LEMBRETE ELE MOSTRA A MENSAGEM
+{
+    <p>Nenhum lembrete encontrado.</p>
+}
+else // SE HOUVER 
+{
+    @foreach (var lembreteGroup in Model)
+    {
+        <h2>@lembreteGroup.First().Data.ToString("dd/MM/yyyy")</h2> // ORGANIZA OS LEMBRETES POR ORDEM CRONOLÓGICA
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var lembrete in lembreteGroup)
+                {
+                    <tr>
+                        <td>@lembrete.Nome</td>
+                        <td>
+                            <form asp-controller="Home" asp-action="DeleteLembrete" method="post"> <!-- AO CLICAR NO BOTAO X, ACIONA A FUNCAO DELETAR LEMBRETE -->
+                                <input type="hidden" name="nome" value="@lembrete.Nome" />
+                                <button type="submit" class="btnDeletar">X</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <p class="errorMensagem">@TempData["ErrorMessage"]</p> <!-- EXIBE NA TELA EM VERMELHO, MENSAGEM DE ERROS -->
+}
+</body>
+</html>
