@@ -1,0 +1,15 @@
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\bin\Debug\net6.0\dtiTestePraticoConsole.exe
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\bin\Debug\net6.0\dtiTestePraticoConsole.deps.json
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\bin\Debug\net6.0\dtiTestePraticoConsole.runtimeconfig.json
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\bin\Debug\net6.0\dtiTestePraticoConsole.dll
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\bin\Debug\net6.0\dtiTestePraticoConsole.pdb
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\dtiTestePraticoConsole.csproj.AssemblyReference.cache
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\dtiTestePraticoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\dtiTestePraticoConsole.AssemblyInfoInputs.cache
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\dtiTestePraticoConsole.AssemblyInfo.cs
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\dtiTestePraticoConsole.csproj.CoreCompileInputs.cache
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\dtiTestePraticoConsole.dll
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\refint\dtiTestePraticoConsole.dll
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\dtiTestePraticoConsole.pdb
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\dtiTestePraticoConsole.genruntimeconfig.cache
+C:\Users\gugur\Desktop\Projetos\dtiTestePraticoConsole\dtiTestePraticoConsole\obj\Debug\net6.0\ref\dtiTestePraticoConsole.dll
